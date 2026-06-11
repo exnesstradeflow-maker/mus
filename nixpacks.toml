@@ -1,5 +1,3 @@
+# nixpacks.toml — to'liq fayl shu bo'lishi kerak
 [phases.setup]
 nixPkgs = ["ffmpeg"]
-
-[phases.install]
-cmds = ["pip install -r requirements.txt"]
