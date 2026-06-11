@@ -1,3 +1,2 @@
-# nixpacks.toml — to'liq fayl shu bo'lishi kerak
 [phases.setup]
-nixPkgs = ["ffmpeg"]
+aptPkgs = ["ffmpeg"]
